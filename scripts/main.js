@@ -28,7 +28,7 @@ function expect(target) {
     }
   }
 }
-
+ 
 //                          __                  __
 //   _________  ____  _____/ /________  _______/ /_____  __________
 //  / ___/ __ \/ __ \/ ___/ __/ ___/ / / / ___/ __/ __ \/ ___/ ___/
@@ -52,7 +52,7 @@ function Dog(color,hungry, status) {
 // })
 // _.extend(this, options);
 
-// 
+//
 // human.prototype.pet = function(dog) {
 //   dog.status =" happy";
 // }
